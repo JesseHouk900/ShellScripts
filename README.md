@@ -12,8 +12,8 @@
       bold:    **160**    color image: - ![1092](https://placehold.it/15/c5f015/000000?text=+) `text`
      
 ### Future projects:
-  *GUI with 4 consoles
+  * GUI with 4 consoles
   
-  *Docker automation
+  * Docker automation
       * 'end' process which kills and removes container
 
